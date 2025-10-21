@@ -42,16 +42,4 @@ Paris, France 🇫🇷
 
 **[Platform Engineering Journey](https://github.com/camaramohamadou/platform-engineering-journey)** 🆕
 My documented path from Data Engineering to Platform Engineering with hands-on projects.
-
-## 🏆 Featured Projects
-
-### **Data Platform Automation @ LVMH (Les Échos Le Parisien)**
-Built a comprehensive data platform on GCP featuring automated ingestion pipelines with Cloud Composer, data quality automation with Dataform, and enterprise-grade governance using Google Dataplex. Implemented end-to-end security with Fernet symmetric encryption and Secret Manager, while collaborating with business teams to transform requirements into analytical models. This project achieved significant reduction in data errors through automated quality testing and established robust data governance practices.
-
-**Tech Stack:** Python, SQLx, Terraform, GitHub Actions, GKE, BigQuery, Cloud Composer, Dataform, Google Dataplex, Secret Manager
-
-### **Multi-Cloud Infrastructure Automation @ L'Oréal**
-Architected and implemented a fully automated multi-cloud data integration system using Terraform, enabling seamless financial data flow from Azure to Google Cloud Platform. Successfully migrated Terraform state management to a dedicated project, managed complete infrastructure lifecycle (provisioning, updates, destruction), and developed a resource analysis solution measuring CPU, memory, and storage across Azure, AWS, GCP, and Alibaba Cloud. Leveraged Google Data Transfer Services, external tables, and the Asset Inventory API to provide comprehensive insights into resource allocation.
-
-**Tech Stack:** Terraform, Python, Google Data Transfer Services, BigQuery, Cloud Build, Asset Inventory API, Multi-cloud (Azure, AWS, GCP, Alibaba)
 ---
