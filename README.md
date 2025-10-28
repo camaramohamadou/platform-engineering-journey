@@ -125,21 +125,21 @@ I document my learnings on:
 - 5x Google Cloud Professional Certifications
 
 **Target:**
-- CKA (Certified Kubernetes Administrator) - Target: March 2026
-- HashiCorp Terraform Associate - Target: April 2026
+- CKA (Certified Kubernetes Administrator) - Target: 2026
+- HashiCorp Terraform Associate - Target: 2026
 
 ## 📊 Stats
 
 - **Started:** October 19, 2025
 - **Daily Commitment:** 2 hours
-- **Target Completion:** April 2026
+- **Target Completion:** 2026
 - **Projects:** 0/10 completed
 
 ## 🤝 Connect
 
 - **Location:** Paris, France 🇫🇷
 - **GitHub:** [@camaramohamadou](https://github.com/camaramohamadou)
-- **LinkedIn:** [Your LinkedIn]
+- **LinkedIn:** [https://www.linkedin.com/in/mohamadou-camara%E2%98%81%EF%B8%8F-000005a5/]
 
 ## 📄 License
 
@@ -150,4 +150,4 @@ MIT License - Feel free to learn from and use this code!
 **Day 1 Status:** Environment setup ✅
 **Next:** Docker mastery & containerization patterns
 
-*Last updated: October 20, 2025*
+*Last updated: October 28, 2025*
